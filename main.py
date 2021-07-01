@@ -1,3 +1,5 @@
+# This is a random number generator that works on the basis of users' time in seconds and the time taken by the user to input the range in which they want the random number.
+
 import time
 from datetime import datetime
 
