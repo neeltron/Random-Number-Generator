@@ -33,3 +33,5 @@ def random_func(num1, num2):
 
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the last number: "))
+
+random_func(num1, num2)
